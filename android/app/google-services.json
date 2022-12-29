@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815798848690",
+    "firebase_url": "https://triplesconstructions-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "triplesconstructions",
+    "storage_bucket": "triplesconstructions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815798848690:android:fd355906e7e2d45e344dab",
+        "android_client_info": {
+          "package_name": "com.example.phantomsolutions2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815798848690-j4j7m1e6o98vucrdeutra7b1tanp539j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0_bGiZ2qRkZt2JV1UhoZV4YZC36aVBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815798848690-j4j7m1e6o98vucrdeutra7b1tanp539j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
